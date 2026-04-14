@@ -5,7 +5,7 @@ Este repositório foi desenvolvido para guardar e compartilhar os avanços na ut
 ...
 
 ## Parte Um
-A primeira parte deste projéto visa comparar os resultados obtidos do método proposto com os resultados de algunss métodos utilizados atualmente no experimento, mais especificamente o Optimal Filter (OF2) e o Constrained Optimal Filter (COF).
+A primeira parte deste projéto visa comparar os resultados obtidos a partir do método proposto (Nelder-Mead) com os resultados de alguns métodos utilizados atualmente no experimento, mais especificamente o Optimal Filter (OF2) e o Constrained Optimal Filter (COF).
 
 ## Copiando o Repositório
 Os métodos, base de dados utilizada e os resultados salvos podem ser copiados para estudo, mas é necessário configurar o ambiente para que tudo funcione corretamente. Após clonar o projeto, siga os passos abaixo.
