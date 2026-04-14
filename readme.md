@@ -21,4 +21,4 @@ Inicie um ambiente virtual dentro da pasta do projeto, digite os seguintes coman
 </pre>
 
 ### Interpretador
-Tente rodar qualquer célula do nm_of2_cof.ipynb e selecione o interpredador do ambiente virtual (de caminho .\\.venv\Scripts\python). Após isso, todo o arquivo está pronto para ser rodado.
+Tente rodar qualquer célula do <a href='https://github.com/nicolasfouv/nelder-mead-for-signal-recovery/blob/main/nm_of2_cof.ipynb'>nm_of2_cof.ipynb</a> e selecione o interpredador do ambiente virtual (de caminho .\\.venv\Scripts\python). Após isso, todo o arquivo está pronto para ser rodado.
